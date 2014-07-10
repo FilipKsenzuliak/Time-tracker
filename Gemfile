@@ -1,6 +1,6 @@
-source "https://rubygems.org"
- 
-gem "sinatra"
-gem "activerecord"
-gem "sinatra-activerecord"
-gem "haml"
+source 'https://rubygems.org'
+
+gem 'rack'
+gem 'sinatra'
+gem 'activerecord'
+gem 'sinatra-activerecord'
